@@ -35,9 +35,16 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-Orders set downe by the most Reuerend Father in God, Samuel, by the prouidence of God Archbishop of 
+
+1. ❧Orders ſet downe by the moſt Reuerend Father
+in God, SAMVEL, by the prouidence of God Archbiſhop
+of Yorke his Grace, Metropolitane of England, to bee preſently publiſhed
+and affixed in all the Pariſh Churches within his ſaid Graces Iuriſdiction, for the
+better reforming of certaine abuſes within the ſame.
+
 #####Back#####
-Orders set downe by the most Reuerend Father in God, Samuel, by the prouidence of God Archbishop of 
+¶Imprinted at London by Iohn Bill, Printer to the Kings
+moſt Excellent Maieſtie. 1629.
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
